@@ -6,6 +6,8 @@ const userModel = require("../model/User");
 
 const router = express.Router();
 
+const accountSid = "";
+const authToken = "";
 
 
 const PHONE_NUMB = "+13613664586"
